@@ -16,5 +16,5 @@ Ensure that X11Lib is installed
 If on windows, Xming in conjunction with WSL is an alternative. 
 Simply install [Xming](http://www.straightrunning.com/XmingNotes/) and [Xming-fonts](http://www.straightrunning.com/XmingNotes/)
 
-Nagivate to the src directory, type "make" in your terminal to compile.
-Then "./quadris" to run the program.
+Nagivate to the src directory, type "make" in your terminal to compile the program.
+Then "./quadris" to run the game.
