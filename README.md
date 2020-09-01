@@ -1,4 +1,6 @@
 # Quadris
+<img src="Documentation/quadris.PNG" width="200">
+
 Single player tetris game made in C++
 
 Supports 5 levels of difficulty varying random block generation probabilities along with extra obstacles
